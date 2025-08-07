@@ -12,11 +12,11 @@
 
 ## Sobre
 
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
-- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
+- Estudante de Sistemas para Internet com foco em desenvolvimento back-end
+- Experiência em projetos acadêmicos com automação e consumo de APIs
+- Interesse em acessibilidade, boas práticas de código e metodologias ágeis
+- Estudando Python, JavaScript e frameworks como Node.js e Express
+- Transição de carreira da educação infantil para a tecnologia com propósito e dedicação
 
 ## Projetos em destaque
 
